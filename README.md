@@ -1,6 +1,10 @@
 # Project Context Collector
 
-This simple shell script helps you quickly collect and share the context of your development project with an AI language model. It's designed to streamline your workflow when working with AI assistants on coding tasks. It let's you quickly cherrypick the specific context off the project for your question to the LLM, as sharing the entire project in my opinion results in worse output and far greater token usage.
+This simple shell script helps you quickly collect and share the context of your development project with an AI language model. It's designed to streamline your workflow when working with AI assistants on coding tasks. 
+
+It let's you quickly cherrypick the specific context off the project for your question or task to the LLM, as sharing the entire project in my opinion results in worse output and far greater token usage. 
+
+There are for sure more sophisticated solutions to do this or offcourse AI driven IDE's like Cursor, but their pricing models with the rate limiting didnt apeal enough to me yet. I find this workflow quite pleasant. 
 
 ## Features
 
