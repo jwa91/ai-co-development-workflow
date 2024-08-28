@@ -57,7 +57,7 @@ This simple shell script helps you quickly collect and share the context of your
 - `output.md` file containing all collected information
 - Clipboard content for easy pasting into AI chat interfaces
 
-![Voorbeeld output](static/example-output.png)
+![Example output](example-output.png)
 
 ## Customization
 
