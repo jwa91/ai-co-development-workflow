@@ -1,0 +1,4 @@
+/path/to/your/project/file.filetype
+/path/to/your/project/file2.filetype
+/path/to/your/project/(sub)/folder
+
